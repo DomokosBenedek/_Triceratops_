@@ -1,0 +1,57 @@
+body{
+    background-color: gray;
+    color: white;
+    padding: 40px;
+}
+#cimsor{
+    color:white;
+    font-weight: bold;
+    text-align: center;
+}
+table{
+    box-shadow: 5px 5px #1D1D4E;
+    background-color: gray;
+}
+#balkep{
+    float: left;
+    box-shadow: 5px 5px #1D1D4E;
+    height: 150px;
+    margin: 20px;
+
+}
+#jobbkep{
+    float: right;
+    box-shadow: 5px 5px #1D1D4E;
+    height: 200px;
+}
+.fejsor{
+    background-color: #1D1D4E;
+    color:white;
+    font-weight: bold;
+    text-align: center;
+
+}
+.forras{
+    font-style: italic;
+    text-align: center;
+    color: white
+}
+a{
+    color: purple
+}
+a:active{
+    color: red;
+}
+a:checked{
+    font-weight: bold;
+    text-align: center;
+    color: purple
+}
+.ball{
+    font-weight: bold;
+    border: #1D1D4E dotted 1px;
+}
+.jobb{
+    font-style: italic;
+    border: #1D1D4E dotted 1px;
+}

@@ -16,7 +16,9 @@ table{
     float: left;
     box-shadow: 5px 5px #1D1D4E;
     height: 150px;
-    margin: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
 
 }
 #jobbkep{
@@ -54,4 +56,9 @@ a:checked{
 .jobb{
     font-style: italic;
     border: #1D1D4E dotted 1px;
+}
+hr{
+    border: #1D1D4E solid 1px;
+    margin-left: 35px;
+    margin-right: 35px;
 }
